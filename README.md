@@ -1,12 +1,8 @@
 ### Olá! eu sou o Luciano👻🎃🧛🦇
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](<a href="mailto:lclucianocarmo24@gmail.com?subject=contato&body=Olá, gostaria de entrar em contato com você"/a>
-)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/lucian0carm0?igshid=NzZlODBkYWE4Ng==)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/luciano-carmo-42839823a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lclucianocarmo24@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucian0carm0?igshid=NzZlODBkYWE4Ng==)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-carmo-42839823a/)
 
 ![Carmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Ni-Sea&show_icons=true&theme=Default)
 
