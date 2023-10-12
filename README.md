@@ -1,6 +1,6 @@
 ### Olá! eu sou o Luciano👻🎃🧛🦇
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lclucianocarmo24@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lclucianocarmo24@gmail.com?subject=Contato%20a%20Partir%20do%20GitHub&body=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20fiquei%20impressionado%21%20Gostaria%20de%20entrar%20em%20contato%20para%20conversarmos%20mais.%0D%0A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucian0carm0?igshid=NzZlODBkYWE4Ng==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-carmo-42839823a/)
 
