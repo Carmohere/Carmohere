@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! eu sou o Luciano👻🎃🧛🦇
 
-<!--
-**Ni-Sea/Ni-Sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](<a href="mailto:lclucianocarmo24@gmail.com?subject=contato&body=Olá, gostaria de entrar em contato com você"/a>
+)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://instagram.com/lucian0carm0?igshid=NzZlODBkYWE4Ng==)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/luciano-carmo-42839823a/)
 
-Here are some ideas to get you started:
+![Carmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Ni-Sea&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou me desenvolvendo
+<div style="display: inline_block"></>
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
