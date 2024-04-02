@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucian0carm0?igshid=NzZlODBkYWE4Ng==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-carmo-42839823a/)
 
-![Carmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Ni-Sea&show_icons=true&theme=Default)
+![Carmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Carmohere&show_icons=true&theme=Default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ni-Sea&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmohere&layout=compact)
 
 ## Tecnologias que estou desenvolvendo
 <div style="display: inline_block"></>
