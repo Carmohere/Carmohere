@@ -5,7 +5,7 @@
 
 - 🌱 Estou atualmente aprendendo **back-end e DataScience.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [🚧 (Em andamento) 🚧](🚧 (Em andamento) 🚧)
+- 👨‍💻 Todos os meus projetos estão disponíveis em (🚧 (Em andamento) 🚧)
 
 - 📫 Onde me encontrar: **LClucianocarmo24@gmail.com**
 
