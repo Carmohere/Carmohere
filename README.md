@@ -18,9 +18,10 @@
 
 ###
 <h3 align="left">Social Media</h3>
-<a href="https://www.linkedin.com/lucianocarm0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="www.instagram.com/lucian0carm0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/lucianocarm0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luciano Carmo LinkedIn" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/lucian0carm0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Luciano Carmo Instagram" height="30" width="40" /></a>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/carmohere"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="carmohere" /></a></p><br><br>
