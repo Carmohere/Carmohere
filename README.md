@@ -19,7 +19,7 @@
 ###
 <h3 align="left">Social Media</h3>
 <a href="https://www.linkedin.com/in/lucianocarm0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luciano Carmo LinkedIn" height="30" width="40" /></a>
-
+<p></p>
 <a href="https://www.instagram.com/lucian0carm0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Luciano Carmo Instagram" height="30" width="40" /></a>
 
 
