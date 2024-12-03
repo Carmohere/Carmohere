@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋, Eu sou Luciano Carmo🧑🏻‍💻</h2>
+<h2 align="left">Olá, Eu sou Luciano Carmo🧑🏻‍💻</h2>
 
 ###
 
