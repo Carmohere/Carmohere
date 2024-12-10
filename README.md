@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/960839212152846295/8ABFF41157DCCD6D25479AAAC38DF7189C4800B0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
